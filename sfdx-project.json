@@ -1,0 +1,28 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true,
+      "package": "TechPack",
+      "versionName": "ver 1.7",
+      "versionNumber": "1.7.1.NEXT",
+      "versionDescription": ""
+    }
+  ],
+  "name": "TechProject",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "TechPack": "0HoDn000000TNLMKA4",
+    "TechPack@0.1.0-1": "04tDn000000reoyIAA",
+    "TechPack@1.1.0-1": "04tDn000000rep3IAA",
+    "TechPack@1.1.1-1": "04tDn000000rep8IAA",
+    "TechPack@1.2.1-1": "04tDn000000repDIAQ",
+    "TechPack@1.3.1-1": "04tDn000000repIIAQ",
+    "TechPack@1.4.1-1": "04tDn000000repNIAQ",
+    "TechPack@1.5.1-1": "04tDn000000repSIAQ",
+    "TechPack@1.6.1-1": "04tDn000000repXIAQ",
+    "TechPack@1.7.1-1": "04tDn000000repcIAA"
+  }
+}
